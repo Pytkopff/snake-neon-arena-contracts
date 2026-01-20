@@ -13,3 +13,4 @@ This repository contains modular smart contracts designed for:
 | Contract | Address | Status |
 |----------|---------|--------|
 | LeaderboardV1 | *Pending* | 🟡 In Development |
+Update: Contracts verified on Base Mainnet.
