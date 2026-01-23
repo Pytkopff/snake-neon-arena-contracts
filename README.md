@@ -17,3 +17,4 @@ Current status of smart contracts deployed on Base.
 |--------------|---------|---------|--------|----------|
 | **Snake Neon Arena Badge** | Base Mainnet | `0x720579D73BD6f9b16A4749D9D401f31ed9a418D7` | 🟢 Active | ✅ Yes |
 | **ArenaPass** | Base Mainnet | `0x1BC53F9Be6Ecf20Aa537d43c83CFea5c9b8eE90b` | 🟢 Active | ✅ Yes |
+| **Neon leaderboard** | Base Mainnet | `0x03a104F7117b109240da5337A9B8BA9c71A5eB06` | 🟢 Active | ✅ Yes |
