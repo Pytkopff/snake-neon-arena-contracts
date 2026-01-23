@@ -9,8 +9,10 @@ This repository contains modular smart contracts designed for:
 - **Assets:** Ownership registry for skins and items.
 - **Game Config:** On-chain parameters for game dynamics.
 
-## 🚀 Deployments
-| Contract | Address | Status |
-|----------|---------|--------|
-| LeaderboardV1 | *Pending* | 🟡 In Development |
-Update: Contracts verified on Base Mainnet.
+## 🚀 On-Chain Deployments
+
+Current status of smart contracts deployed on Base.
+
+| Contract Name | Network | Address | Status | Verified |
+|--------------|---------|---------|--------|----------|
+| **ArenapPass** | Base Mainnet | `0x1BC53F9Be6Ecf20Aa537d43c83CFea5c9b8eE90b` | 🟢 Active | ✅ Yes |
