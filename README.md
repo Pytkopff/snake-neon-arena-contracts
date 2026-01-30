@@ -25,3 +25,4 @@ Current status of smart contracts deployed on Base.
 | **NeonVoting** | Base Mainnet | `0xa55477b69f7D229c4B3255a7528E6CF981564b8e` | 🟢 Active | ✅ Yes |
 | **NeonSupporterBadge** | Base Mainnet | `0xd49Ed09d18712f3AAd14eA9c8760033004d5e654` | 🟢 Active | ✅ Yes |
 | **NeonGuildRegistry** | Base Mainnet | `0xf68559790b59f2bb9dAa05F16d47071653Df50Dd` | 🟢 Active | ✅ Yes |
+| **SnakeSkinMarketplace** | Base Mainnet | `0x764D92cdB369C03B835C94e8914343FaD58E36a7` | 🟢 Active | ✅ Yes |
