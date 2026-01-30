@@ -1,0 +1,23 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract NeonSupporterBadge {
+    address public owner;
+    mapping(address => bool) public isSupporter;
+    event BadgePurchased(address indexed supporter, uint256 amount);
+
+    constructor() { owner = msg.sender; }
+
+    function buyBadge() external payable {
+        require(msg.value > 0, "Donation required");
+        isSupporter[msg.sender] = true;
+        emit BadgePurchased(msg.sender, msg.value);
+    }
+
+    // TĘ FUNKCJĘ ZMIENILIŚMY NA "CALL"
+    function withdraw() external {
+        require(msg.sender == owner, "Only owner");
+        (bool success, ) = payable(owner).call{value: address(this).balance}("");
+        require(success, "Transfer failed");
+    }
+}
