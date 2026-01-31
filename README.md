@@ -12,6 +12,11 @@ This repository contains modular smart contracts designed for:
 - **Assets:** Ownership registry for skins and items.
 - **Game Config:** On-chain parameters for game dynamics.
 
+## 🚀 Key Features
+- **On-chain Leaderboard:** Transparent score tracking on Base.
+- **Modular Assets:** Scalable skin and item registry.
+- **Frame Ready:** Optimized for high-performance Farcaster integration.
+
 ## 🚀 On-Chain Deployments
 
 Current status of smart contracts deployed on Base.
