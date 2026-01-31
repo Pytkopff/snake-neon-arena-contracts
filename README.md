@@ -1,3 +1,6 @@
+![Base Ecosystem](https://img.shields.io/badge/Network-Base-blue)
+![Solidity](https://img.shields.io/badge/Language-Solidity-black)
+![Farcaster](https://img.shields.io/badge/Integration-Farcaster%20Frames-purple)
 # 🐍 Snake Neon Arena - Smart Contracts
 
 Official repository for the on-chain logic of **Snake Neon Arena**.
