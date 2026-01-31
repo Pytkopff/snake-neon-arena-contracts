@@ -1,0 +1,21 @@
+{
+  "name": "snake-neon-arena-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for Snake Neon Arena on Base L2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "base",
+    "smart-contracts",
+    "crypto",
+    "ethereum"
+  ],
+  "author": "Pytkopff",
+  "license": "MIT",
+  "dependencies": {
+    "hardhat": "^2.19.0",
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
